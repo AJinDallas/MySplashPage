@@ -1,0 +1,6 @@
+c:\users\allen\documents\visual studio 2013\Projects\MySplashPage\MySplashPage\bin\MySplashPage.dll.config
+c:\users\allen\documents\visual studio 2013\Projects\MySplashPage\MySplashPage\bin\MySplashPage.dll
+c:\users\allen\documents\visual studio 2013\Projects\MySplashPage\MySplashPage\bin\MySplashPage.pdb
+c:\users\allen\documents\visual studio 2013\Projects\MySplashPage\MySplashPage\obj\Debug\MySplashPage.csprojResolveAssemblyReference.cache
+c:\users\allen\documents\visual studio 2013\Projects\MySplashPage\MySplashPage\obj\Debug\MySplashPage.dll
+c:\users\allen\documents\visual studio 2013\Projects\MySplashPage\MySplashPage\obj\Debug\MySplashPage.pdb
